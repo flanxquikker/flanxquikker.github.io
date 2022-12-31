@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: quikkerjs.tk
+Token: ffb0bf5e781d3bebd4da94e819195d47157ff7021b516bf7a8ff2410eb3dd797
